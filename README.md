@@ -1,1 +1,1 @@
-This repository is a place for me to back up my MATLAB projects
+This repository contains back up my MATLAB projects from university
